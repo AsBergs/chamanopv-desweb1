@@ -1,0 +1,54 @@
+:root{
+--cor_1: #BF8C4E;
+--cor_2: black;
+--cor_3: #BDBEBF;
+--cor_4: #F2D680;
+}
+body{
+background-color: var(--cor_3);
+}
+h1{
+   
+        font-family: cursive;
+        color: var(--cor_1);
+        text-align: center;
+        text-decoration: underline;
+        font-size: 50px;  
+}img {
+    float: right;
+    margin: 0px 0px;
+    height: 400px;
+ 
+   
+}p{
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}h2{
+    font-size: 30px;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}p{
+margin-left: 10px;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#img{
+    margin-right: 10px;
+    float: left;
+    margin: 4px 0px;
+    height: 300px;
+    
+}h3{
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}p{
+margin-left: 10px;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}h4{
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
+
+}
