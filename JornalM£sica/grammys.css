@@ -1,51 +1,69 @@
-:root{
---cor_1: #BF8C4E;
---cor_2: black;
---cor_3: #BDBEBF;
---cor_4: #F2D680;
+:root {
+    --cor_1: #BF8C4E;
+    --cor_2: black;
+    --cor_3: #BDBEBF;
+    --cor_4: #F2D680;
 }
-body{
-background-color: var(--cor_3);
+
+body {
+    background-image: url(fundojornal3.png)
 }
-h1{
-   
-        font-family: cursive;
-        color: var(--cor_1);
-        text-align: center;
-        text-decoration: underline;
-        font-size: 50px;  
-}img {
+
+h1 {
+
+    font-family: cursive;
+    color: var(--cor_1);
+    text-align: center;
+    text-decoration: underline;
+    font-size: 50px;
+}
+
+img {
     float: right;
     margin: 0px 0px;
     height: 400px;
- 
-   
-}p{
+
+
+}
+
+p {
     font-size: 25px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    
-}h2{
+
+}
+
+h2 {
     font-size: 30px;
-   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}p{
-margin-left: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p {
+    margin-left: 10px;
     font-size: 25px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-#img{
+
+#img {
     margin-right: 10px;
     float: left;
-    margin: 4px 0px;
+    margin: 4px 10px;
     height: 300px;
-    
-}h3{
+
+}
+
+h3 {
     font-size: 30px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}p{
-margin-left: 10px;
+}
+
+p {
+    margin-left: 10px;
     font-size: 25px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-}h4{
+}
+
+h4 {
+    text-align: left;
     font-size: 30px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 
