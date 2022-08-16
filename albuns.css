@@ -1,12 +1,6 @@
 :root{
---color_1: rgba(160, 116, 4, 0.849);
---color_2: purple;
---color_3: red;
---color_4: rgb(49, 217, 230);
---color_5: rgb(48, 47, 47);
---color_6: rgb(224, 143, 156);
---color_7: gray;
---color_8: rgb(167, 89, 17);
+
+--color_1: rgb(167, 89, 17);
 
 
 }body{
@@ -15,7 +9,7 @@
 h1{
 font-family: Georgia, 'Times New Roman', Times, serif;
 text-align: center;
-color: var(--color_8);
+color: var(--color_1);
 
 }
 p{
@@ -26,7 +20,7 @@ p{
 img{
 float: left;
 height: 300px;
-margin: 7px;
+margin: 10px;
 margin-bottom: 2px;
 
 }
