@@ -1,0 +1,32 @@
+:root{
+--color_1: rgba(160, 116, 4, 0.849);
+--color_2: purple;
+--color_3: red;
+--color_4: rgb(49, 217, 230);
+--color_5: rgb(48, 47, 47);
+--color_6: rgb(224, 143, 156);
+--color_7: gray;
+--color_8: rgb(167, 89, 17);
+
+
+}body{
+    background-image: url(papelold2.png);
+}
+h1{
+font-family: Georgia, 'Times New Roman', Times, serif;
+text-align: center;
+color: var(--color_8);
+
+}
+p{
+    font-size: 25px;
+
+
+}
+img{
+float: left;
+height: 300px;
+margin: 7px;
+margin-bottom: 2px;
+
+}

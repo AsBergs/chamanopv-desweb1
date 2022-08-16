@@ -1,0 +1,50 @@
+:root{
+    --cor_1: #FED02C;
+    --cor_2: #031434;
+
+
+
+
+}
+body{
+    background-image: url(fundocinza.jpg);
+}
+header{
+    grid-column: 1/span 3;
+    height: 150px;
+    display: grid;
+    grid-template-rows: 1fr;
+    margin-bottom: 10px;
+}
+div{
+    text-align: center;
+    background-image: url(fundocinza2.jpg);
+    margin: 7px;
+    font-size: 50px;
+    border: 5px solid var(--cor_2); 
+}
+h1{
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-weight: 100;
+    color: var(--cor_1);
+    }
+    
+    @media(max-width: 1000px){
+h1{
+    font-size: 30px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+    }
+    img{
+float: left;
+height: 300px;
+margin: 4px 10px;
+
+    }p{
+        font-size: 30px;
+    } #h1{
+        color: var(--cor_2);
+    }

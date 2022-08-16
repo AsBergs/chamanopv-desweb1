@@ -1,0 +1,38 @@
+:root{
+    --cor_1: #080409;
+    --cor_2: #FFFEFF;
+    --cor_3: red;
+}
+body{
+    background-color: var(--cor_1);
+}
+h1{
+    text-align: center;
+    color: var(--cor_2);
+    font-size: 50px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+
+}img{
+
+float: right;
+height: 400px;
+margin-right: 20px;
+margin-left: 5px;
+
+} 
+p{
+    margin-left: 20px;
+    font-size: 20px;
+    color: var(--cor_2);
+}
+#img{
+float: left;
+height: 400px;
+margin: 20px;
+}a{
+    color: var(--cor_3);
+}
+
+
+
+
